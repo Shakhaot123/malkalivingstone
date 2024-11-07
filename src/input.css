@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'MicrosoftYaHei';
+    src: url('./fonts/chinese.msyh.ttf') format('truetype');
+  }
+  
