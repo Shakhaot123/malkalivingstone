@@ -1,1 +1,1 @@
- https://shakhaot123.github.io/malkalivingstone/
+https://shakhaot123.github.io/malkalivingstone/src/
